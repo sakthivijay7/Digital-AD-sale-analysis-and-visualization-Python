@@ -7,9 +7,7 @@ Python codes to dataset to be visualization and model train to predict
 # Tools used
 1."Python Idle" or "Pycharm",
 2.Python Libraries 'Pandas' 'Numpy' 'matplotlib' 'seaborn' 'scikit-learn' .
-# How to use
-Download dataset.csv and python.py files
-# Keep in mind
-Model trained if using more accuracy algorithm some times biased then use for prediction above 75% to 80% < 95%
+
+
  
 
