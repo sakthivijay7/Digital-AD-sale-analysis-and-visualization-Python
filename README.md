@@ -6,7 +6,7 @@ Dataset to be visualization and model train to prediction.
 3.Using all different classification algorithm to train the model  which one more accuracy ,that used to prediction for more accurate result 
 # Tools:
 1."Python Idle" or "Pycharm",
-2.Python Libraries >Pandas,>Numpy ,>matplotlib,>seaborn,>scikit-learn.
+2.Python Libraries > Pandas,> Numpy ,> matplotlib,> seaborn,> scikit-learn.
 
 
  
